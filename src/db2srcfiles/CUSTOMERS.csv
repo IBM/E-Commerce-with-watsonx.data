@@ -1,0 +1,11 @@
+﻿CUSTOMER_ID,CUSTOMER_NAME,EMAIL,PHONE,LOCATION
+301,John Doe,john.doe@example.com,123-456-7890,"New York, NY"
+302,Jane Smith,jane.smith@example.com,987-654-3210,"Los Angeles, CA"
+303,Alice Johnson,alice.j@example.com,555-123-4567,"Chicago, IL"
+304,Bob Brown,bob.brown@example.com,444-987-6543,"Houston, TX"
+305,Charlie Davis,charlie.d@example.com,333-555-7890,"Phoenix, AZ"
+306,David Wilson,david.w@example.com,222-888-1234,"Philadelphia, PA"
+307,Emma Thompson,emma.t@example.com,111-222-3333,"San Antonio, TX"
+308,Olivia Martinez,olivia.m@example.com,666-444-7777,"San Diego, CA"
+309,Liam Garcia,liam.g@example.com,999-888-5555,"Dallas, TX"
+310,Sophia Martinez,sophia.m@example.com,000-111-2222,"San Jose, CA"
